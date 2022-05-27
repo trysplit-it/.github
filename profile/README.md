@@ -25,7 +25,7 @@
 
 ## `.github`
 
-## This repo manages the README that you are seeing now! Nothing else to it.
+#### This repo manages the README that you are seeing now! Nothing else to it.
 
 ___
 ### Contributions
