@@ -27,7 +27,7 @@ This repo manages the README that you are seeing now! Nothing else to it.
 
 ___
 ### Contributions
-Author(s): Kevin Kim
+Kevin Kim
 
 <!--
 
