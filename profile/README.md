@@ -4,10 +4,10 @@ Welcome to the organization! Split.it is an app that aims to make cost-pooling s
 
 This organization contains 4 main repositories:
 
-**1. splitit-main**
-**2. splitit-ios**
-**3. docs**
-**4. .github**
+1. **splitit-main**
+2. **splitit-ios**
+3. **docs**
+4. **.github**
 
 ## `splitit-main`
 
