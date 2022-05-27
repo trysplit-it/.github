@@ -1,6 +1,6 @@
 # Split.it
 
-#### Welcome to the organization! Split.it is an app that aims to make cost-pooling simple.
+#### 👋 Welcome to the organization! Split.it is an app that aims to make cost-pooling simple.
 
 #### This organization contains 4 main repositories:
 
@@ -9,7 +9,7 @@
 3. **[docs](https://github.com/trysplit-it/docs)**
 4. **[.github](https://github.com/trysplit-it/.github)**
 
-#### For newcomers, start [here](https://www.google.com/).
+#### ❗❗ For newcomers, start [here](https://www.google.com/). ❗❗
 
 ## `splitit-main`
 
