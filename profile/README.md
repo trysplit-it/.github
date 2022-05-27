@@ -9,7 +9,7 @@
 3. **[docs](https://github.com/trysplit-it/docs)**
 4. **[.github](https://github.com/trysplit-it/.github)**
 
-#### ❗❗ For newcomers, start <a href="http://example.com/" target="_blank">here</a>. ❗❗
+#### ❗❗ For newcomers, start <a href="https://trysplit-it.github.io/docs/tutorials" target="_blank" rel="noreferrer noopener">here</a>. ❗❗
 
 ## `splitit-main`
 
