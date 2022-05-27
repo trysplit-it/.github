@@ -1,17 +1,29 @@
-# Split.it Github
+# Split.it
 
 Welcome to the organization! Split.it is an app that aims to make cost-pooling simple.
 
 This organization contains 4 main repositories:
 
-1. splitit-main
-2. splitit-ios
-3. docs
-4. .github
+**1. splitit-main**
+**2. splitit-ios**
+**3. docs**
+**4. .github**
 
 ## `splitit-main`
 
-is the main repo for our project. It's written in the MERN stack
+The main repo for our project. It's written in the MERN stack, and it's what you see when you go to our website.
+
+## `splitit-ios`
+
+The repo for our ios deployment. It's written in Swift, and it's what you see when you download our app from the app store.
+
+## `docs`
+
+The place to go to answer your questions. If you have a question, go here first, then bring it to someone. This is maintained by all of us, so if there are any significant new features/functions/tech stack that you think other people will benefit from reading about, put it here. Tutorials and such are also in this repo.
+
+## `.github`
+
+This repo manages the README that you are seeing now! Nothing else to it.
 
 <!--
 
