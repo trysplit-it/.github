@@ -1,4 +1,17 @@
-## Hi there 👋
+# Split.it Github
+
+Welcome to the organization! Split.it is an app that aims to make cost-pooling simple.
+
+This organization contains 4 main repositories:
+
+1. splitit-main
+2. splitit-ios
+3. docs
+4. .github
+
+## `splitit-main`
+
+is the main repo for our project. It's written in the MERN stack
 
 <!--
 
